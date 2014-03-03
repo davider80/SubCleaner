@@ -16,3 +16,10 @@ Supported formats:
 * MPL2
 
 Just drag a subtitle on the application and it will be automatically cleaned.
+
+Credits
+• Zeno Crivelli (developer of Xcast) for the Cocoa tips and the debugging
+• Andy Matushak for the Sparkle framework (http://andymatuschak.org/pages/sparkle)
+• The growl team for the Growl notification system (http://growl.info)
+• Everardo Coelho for the Crystal Clear icons (http://www.everaldo.com), (http://www.yellowicon.com)
+• John, James, Sylvain & Adrian for the bug reports & suggestions
