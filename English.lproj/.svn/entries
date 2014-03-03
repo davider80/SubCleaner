@@ -1,0 +1,47 @@
+8
+
+dir
+79
+https://subcleaner.googlecode.com/svn/trunk/English.lproj
+https://subcleaner.googlecode.com/svn
+
+
+
+2007-10-23T22:48:14.453861Z
+74
+Davide
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+16dc5de0-c3a4-11dd-874b-8bacd04a0a74
+
+InfoPlist.strings
+file
+
+
+
+
+2008-12-24T10:58:03.000000Z
+fe29df9009d0f79a24c5f7ec7577ebe0
+2007-03-08T00:17:49.513493Z
+60
+Davide
+has-props
+
+MainMenu.nib
+dir
+
+Preferences.nib
+dir
+

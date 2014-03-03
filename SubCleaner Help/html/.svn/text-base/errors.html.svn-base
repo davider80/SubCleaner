@@ -1,0 +1,2786 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+
+  
+  
+  
+  <meta content="Supported Repairs" name="AppleTitle">
+
+
+
+
+  
+  
+  
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+
+
+  
+  
+  
+  <title>Supported Repairs</title>
+</head>
+
+
+<body>
+
+
+
+
+<div style="text-align: center; font-family: Verdana;">
+<div style="text-align: left;">
+<h2><small><span style="font-weight: bold;"></span>Repair
+features availables</small></h2>
+
+
+
+
+</div>
+
+
+
+
+<div style="text-align: left;">
+<h2><small><small><small>1. List of common
+formatting errors</small></small></small></h2>
+
+
+
+
+<small>
+This errors will be automatically fixed when loading a subtitle file.</small><br>
+
+
+
+
+<br>
+
+
+
+
+<font style="color: rgb(0, 0, 0);" color="#444444" size="2"><b>Issue 1:</b> Sections are merged
+together.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font color="#444444" size="2">1:</font></td>
+
+
+
+
+                  <td><font color="#444444" size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">2:</font></td>
+
+
+
+
+                  <td><font color="#444444" size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">3:</font></td>
+
+
+
+
+                  <td><font color="#444444" size="2">Hello
+world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font color="#444444" size="2">4:</font></td>
+
+
+
+
+                  <td width="330"><font color="#444444" size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">5:</font></td>
+
+
+
+
+                  <td><font color="#444444" size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">6:</font></td>
+
+
+
+
+                  <td><font color="#444444" size="2">Bye
+world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">7:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+<p><font style="color: rgb(0, 0, 0);" color="#444444" size="2">
+<b>Issue 2:</b> Section numbers &amp; timestamps are
+merged.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font color="#444444" size="2">1:</font></td>
+
+
+
+
+                  <td style="color: rgb(3, 3, 3);"><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">2:</font></td>
+
+
+
+
+                  <td style="color: rgb(3, 3, 3);"><font size="2">00:01:10,070 --&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">3:</font></td>
+
+
+
+
+                  <td style="color: rgb(3, 3, 3);"><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">4:</font></td>
+
+
+
+
+                  <td style="color: rgb(3, 3, 3);"></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font color="#444444" size="2">5:</font></td>
+
+
+
+
+                  <td style="color: rgb(3, 3, 3);" width="330"><font size="2">200:01:13,083 --&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">6:</font></td>
+
+
+
+
+                  <td style="color: rgb(3, 3, 3);"><font size="2">Bye world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font color="#444444" size="2">7:</font></td>
+
+
+
+
+                  <td style="color: rgb(3, 3, 3);"></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+</p>
+
+
+
+
+<p style="color: rgb(0, 0, 0);"><font size="2">
+<b>Issue 3:</b> Timestamps &amp; texts are merged.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td><font size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td width="330"><font size="2">00:01:13,083
+--&gt; 00:01:15,085Bye world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+</p>
+
+
+
+
+<p style="color: rgb(0, 0, 0);"><font size="2">
+<b>Issue 4:</b> Incorrect section numbers.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td width="330"><font size="2">83dh</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td><font size="2">Bye world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+</p>
+
+
+
+
+<p style="color: rgb(0, 0, 0);"><font size="2">
+<b>Issue 5:</b> Excessive newlines between timestamp and
+text.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td><font size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td width="330"><font size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">8:</font></td>
+
+
+
+
+                  <td><font size="2">Bye world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+</p>
+
+
+
+
+<p style="color: rgb(0, 0, 0);"><font size="2">
+<b>Issue 6:</b> Excessive newlines between section nr and
+timestamp.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td><font size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td width="330"></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">8:</font></td>
+
+
+
+
+                  <td><font size="2">Bye world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+</p>
+
+
+
+
+<p style="color: rgb(0, 0, 0);"><font size="2">
+<b>Issue 7:</b> Excessive newlines in the beginning of the
+file.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td width="330"><font size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">8:</font></td>
+
+
+
+
+                  <td><font size="2">Bye world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+</p>
+
+
+
+
+<p style="color: rgb(0, 0, 0);"><font size="2">
+<b>Issue 8:</b> Excessive newlines at the end of the file.
+</font>
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td><font size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td width="330"><font size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td><font size="2">Bye world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font size="2">8:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+</p>
+
+
+
+
+<small><small>Common errors list is copyright &copy; of
+<a href="http://www.srtwiz.tk/">srtwiz</a> developer<br>
+
+
+
+
+<br>
+
+
+
+
+</small></small>
+<h4><small>2. Wrap line at x characters</small></h4>
+
+
+
+
+<small>
+Some DivX hardware players displays the subtitles at a fixed font size.
+This means that if the text lines are too long some characters will be
+displayed outside the TV screen! In the preferences you can ask
+SubCleaner to break the lines at a fixed character number. You have to
+try to see the value that fits better your case. For example with my
+LinkTheater device 50 characters is a good value.<br>
+
+
+
+
+<br>
+
+
+
+
+<span style="font-weight: bold;">Example<br>
+
+
+
+
+<br>
+
+
+
+
+</span>Some portions of the line 7 will not be displayed:</small>
+<span style="font-weight: bold;"><span style="font-weight: bold;"></span></span><br>
+
+
+
+
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table style="width: 730px; height: 168px;" cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td><font size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td width="330"><font size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td><font size="2">Bye world! This
+line is too long for my TV screen, arghhhh, I don't see nothing! :-/</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">8:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+<br>
+
+
+
+
+<small><br>
+
+
+
+
+The wrap line copied half of the line 7 in the line 8, that's better:</small><br>
+
+
+
+
+<table style="width: 375px; height: 147px;" bgcolor="black" cellpadding="0" cellspacing="1">
+
+
+
+
+  <tbody>
+
+
+
+
+    <tr bgcolor="#eeeeee">
+
+
+
+
+      <td>
+      
+      
+      
+      <table>
+
+
+
+
+        <tbody>
+
+
+
+
+          <tr>
+
+
+
+
+            <td>
+            
+            
+            
+            <table style="width: 362px; height: 149px;" cellpadding="0" cellspacing="0">
+
+
+
+
+              <tbody>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td width="25"><font size="2">1:</font></td>
+
+
+
+
+                  <td><font size="2">1</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">2:</font></td>
+
+
+
+
+                  <td><font size="2">00:01:10,070
+--&gt; 00:01:12,063</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">3:</font></td>
+
+
+
+
+                  <td><font size="2">Hello world!</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">4:</font></td>
+
+
+
+
+                  <td></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">5:</font></td>
+
+
+
+
+                  <td><font size="2">2</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">6:</font></td>
+
+
+
+
+                  <td width="330"><font size="2">00:01:13,083
+--&gt; 00:01:15,085</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr>
+
+
+
+
+                  <td><font size="2">7:</font></td>
+
+
+
+
+                  <td><font size="2">Bye world! This
+line is too long for my TV&nbsp;</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+                <tr bgcolor="#ffcccc">
+
+
+
+
+                  <td><font size="2">8:</font></td>
+
+
+
+
+                  <td><font size="2">screen,
+arghhhh, I don't see nothing! :-/</font></td>
+
+
+
+
+                </tr>
+
+
+
+
+              
+              
+              
+              </tbody>
+            
+            
+            
+            </table>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        </tbody>
+      
+      
+      
+      </table>
+
+
+
+
+      </td>
+
+
+
+
+    </tr>
+
+
+
+
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+<br>
+
+
+<h4><small>3. Limit&nbsp;to x lines</small></h4>
+
+
+<small>Some DivX hardware players can display only a fixed numbers of
+line. This function will try to fit the subtitle on a limited number of
+lines using if necessary a max number of characters per line.<br>
+
+
+<br>
+
+
+If this is not possible, it will split the subtitle and display with a timing related to the number of lines.<br>
+<br>
+</small>
+<h4><small>4. Remove style tags</small></h4>
+
+
+<small>Some DivX hardware players don't understand the style tags
+(&lt;i&gt;,&lt;b&gt;,...). This function will recognize these types of
+tags and will remove it from the text.</small>
+
+<p style="color: rgb(0, 0, 0);"></p>
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+</body>
+</html>

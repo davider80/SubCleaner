@@ -1,0 +1,36 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                fileDragged = id; 
+                framerateButtonClicked = id; 
+                gotoDonationPage = id; 
+                gotoHomePage = id; 
+                letsstartButtonClicked = id; 
+                letsstartWelcomeBackButtonClicked = id; 
+                showPreferenceController = id; 
+            }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                dragFileView = DragFile; 
+                framerateSheet = NSWindow; 
+                mainWindow = NSWindow; 
+                microDVDSubName = NSTextField; 
+                welcomeBackSheet = NSWindow; 
+                welcomeSheet = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = DragFile; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = PreferencePanel; LANGUAGE = ObjC; SUPERCLASS = NSPanel; }, 
+        {
+            ACTIONS = {checkForUpdates = id; }; 
+            CLASS = SUUpdater; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

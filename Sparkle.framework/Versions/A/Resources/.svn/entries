@@ -1,0 +1,121 @@
+8
+
+dir
+79
+https://subcleaner.googlecode.com/svn/trunk/Sparkle.framework/Versions/A/Resources
+https://subcleaner.googlecode.com/svn
+
+
+
+2006-10-09T18:29:56.060167Z
+29
+Davide
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+16dc5de0-c3a4-11dd-874b-8bacd04a0a74
+
+ja.lproj
+dir
+
+zh_TW.lproj
+dir
+
+he.lproj
+dir
+
+id.lproj
+dir
+
+fi.lproj
+dir
+
+Info.plist
+file
+
+
+
+
+2008-12-24T10:58:02.000000Z
+296eb3944324b0502cea7d306d1e7267
+2006-10-09T18:29:56.060167Z
+29
+Davide
+
+zh_CN.lproj
+dir
+
+en.lproj
+dir
+
+cs.lproj
+dir
+
+es.lproj
+dir
+
+fr.lproj
+dir
+
+ko.lproj
+dir
+
+nl.lproj
+dir
+
+is.lproj
+dir
+
+pl.lproj
+dir
+
+th.lproj
+dir
+
+cy.lproj
+dir
+
+no.lproj
+dir
+
+hu.lproj
+dir
+
+it.lproj
+dir
+
+SUStatus.nib
+dir
+
+sk.lproj
+dir
+
+ca.lproj
+dir
+
+da.lproj
+dir
+
+tr.lproj
+dir
+
+ru.lproj
+dir
+
+de.lproj
+dir
+
+sv.lproj
+dir
+

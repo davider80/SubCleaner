@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+  
+  
+  <meta content="What's New" name="AppleTitle">
+
+
+
+  
+  
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+
+  
+  
+  <title>What's New</title>
+</head>
+
+
+<body>
+
+
+
+<div style="text-align: center; font-family: Verdana;">
+<div style="text-align: left;">
+<h3><small>What's new</small>
+</h3>
+
+
+
+<font style="color: rgb(0, 0, 0);" color="#444444" size="2"><span style="font-weight: bold;">1.0b6 - 2007.10.24<br>
+</span>&bull; new: MPL2 format support added<br>
+&bull; new: added "Add string at end of line" function<br>
+&bull; new: added "Delete string between []" function<br>
+&bull; change: improvement of the "remove style tags" function<span style="font-weight: bold;"><br>
+<br>
+1.0b5 - 2007.03.12<br>
+
+</span>
+
+&bull; change: improvement of the "limit lines number" function
+<br>
+
+&bull; new: "remove style tags" function
+<br>
+
+&bull; new: added "Donate" in the help menu
+<span style="font-weight: bold;"><span style="font-weight: bold;"><br>
+
+
+
+<br>
+
+
+
+1.0b4 - 2006.10.23<br>
+
+
+
+</span></span>&bull; change: preference panel redesign<br>
+
+
+
+&bull; fix: converted files have now the srt extension<br>
+
+
+
+&bull; fix: some errors when converting from MicroDVD format<br>
+
+
+
+&bull; new: limit number of lines for each subtitle item<br>
+
+
+
+&bull; new: TMPlayer format support<span style="font-weight: bold;"><span style="font-weight: bold;"><br>
+
+
+
+<br>
+
+
+
+1.0b3 - 2006.10.14</span><br>
+
+</span>
+
+&bull; fix: problem when wrapping a subtitle file with text
+beginning with a space<br>
+
+
+
+&bull; fix: now it supports input file with "Classic Mac Line
+Endings" (CR)<br>
+
+
+
+&bull; new: now there is a progress bar when dragging multiple
+subtitles<br>
+
+
+
+&bull; change: several performance improvements<br>
+
+
+
+&bull; change: original subtitles are now moved to a "Original
+Subtitles" subdirectory<br>
+
+
+
+&bull; new: SubViewer &amp; MicroDVD formats support added.
+This formats will be converted to a clean SubRip format<span style="font-weight: bold;"><br>
+
+
+
+<br style="font-weight: bold;">
+
+
+
+<span style="font-weight: bold;">1.0b2 - 2006.10.10</span><br>
+
+</span>
+
+&bull; fix: better handling of text file encodings<br>
+
+
+
+&bull; fix: output files are formatted in the standard microsoft
+CR+LF as described on http://en.wikipedia.org/wiki/SubRip<br>
+
+
+
+&bull; change: wrap line function has been improved<br>
+
+
+
+&bull; fix: now the operation result is displayed when launching
+the application with a file drag<br>
+
+
+
+&bull; change: go to home page menu is now available<br>
+
+
+
+&bull; new: go to subcleaner forum menu<br>
+
+
+
+&bull; new: added help with a description of the errors fixed by
+SubCleaner<span style="font-weight: bold;"><br>
+
+
+
+<br>
+
+
+
+<span style="font-weight: bold;">1.0b1 - 2006.10.08</span><br style="font-weight: bold;">
+
+</span>
+
+&bull; first public release</font></div>
+
+
+
+<div style="text-align: left;"><small><br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+</small></div>
+
+
+
+</div>
+
+
+
+</body>
+</html>

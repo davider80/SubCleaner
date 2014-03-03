@@ -1,0 +1,341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+  
+  
+  <meta content="Supported Subtitle Formats" name="AppleTitle">
+
+
+
+  
+  
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+
+  
+  
+  <title>Supported Subtitle Formats</title>
+</head>
+
+
+<body>
+
+
+
+<div style="text-align: center; font-family: Verdana;">
+<div style="text-align: left;">
+<h2><small><span style="font-weight: bold;"></span>Supported
+subtitle formats</small></h2>
+
+
+
+</div>
+
+
+
+<div style="text-align: left;">
+<h2><small><small><small>1. SubRip format (.srt)</small></small></small></h2>
+
+
+<small>A running number, end- and startime down to milliseconds given for each subtitle.<br>
+
+
+</small><small><br>
+
+
+<span style="color: rgb(51, 51, 255);">1</span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">00:01:10,070 --&gt; 00:01:12,063</span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">Hello world!</span><br style="color: rgb(51, 51, 255);">
+
+
+<br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">2</span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">00:01:13,083 --&gt; 00:01:15,085</span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">Bye world!</span><br style="color: rgb(51, 51, 255);">
+
+
+</small><small style="color: rgb(51, 51, 255);">Bye Bye Bye!</small><br>
+
+
+<small></small><br>
+
+
+<h2><small><small><small>2. SubViewer format
+(.sub)</small></small></small></h2>
+
+
+
+<span style="font-weight: bold;"></span><small>Some information in the beginning about the movie. Start and end times given for each subtitle <br>
+
+
+<br>
+
+
+<span style="color: rgb(51, 51, 255);">[INFORMATION] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[TITLE]xxxxxxxxxx </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[AUTHOR]xxxxxxxx </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[SOURCE]xxxxxxxxxxxxxxxx </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[FILEPATH] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[DELAY]0 </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[COMMENT] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[END INFORMATION] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[SUBTITLE] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[COLF]&amp;HFFFFFF,[STYLE]bd,[SIZE]18,[FONT]Arial</span><br style="color: rgb(51, 51, 255);">
+
+
+</small><small style="color: rgb(51, 51, 255);">00:01:10.07,00:01:12.06<br>
+
+
+Hello world!<br>
+
+
+<br>
+
+
+00:01:13.08,00:01:15.08<br>
+
+
+Bye world!<br>
+
+
+</small><small style="color: rgb(51, 51, 255);">Bye Bye Bye!</small><small><br>
+
+
+<br>
+
+
+</small>
+<h2><small><small><small>3. SubViewer 2.0 format
+(.sub)</small></small></small></h2>
+
+
+<small>Difference to the old SubViewer format is that the whole
+subtitle is written into one line and the linebrakes are marked with
+[br]<br>
+
+
+<br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[INFORMATION] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[TITLE]xxxxxxxxxx </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[AUTHOR]xxxxxxxxxx </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[SOURCE]xxxxxxxxxx </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[PRG]</span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[FILEPATH]</span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[DELAY]0 </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[CD TRACK]0 </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[COMMENT] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[END INFORMATION] </span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[SUBTITLE]</span><br style="color: rgb(51, 51, 255);">
+
+
+<span style="color: rgb(51, 51, 255);">[COLF]&amp;H00FFFF,[STYLE]no,[SIZE]12,[FONT]Courier New</span><br style="color: rgb(51, 51, 255);">
+
+
+</small><small style="color: rgb(51, 51, 255);">00:01:10.07,00:01:12.06<br>
+
+
+Hello world!<br>
+
+
+<br>
+
+
+00:01:13.08,00:01:15.08<br>
+
+
+Bye world!</small><small style="color: rgb(51, 51, 255);">[br]</small><small style="color: rgb(51, 51, 255);">Bye Bye Bye!</small><small><br>
+
+
+<br>
+
+
+</small>
+<h2><small><small><small>4. MicroDVD format
+(*.*)</small></small></small></h2>
+
+
+<small>A compact textfile with start- and endframes in brackets {} in the beginnig of every line. Linebreakes are marked by |<br>
+
+
+This format is related to the framerate of the movie.<br>
+
+
+<br>
+
+
+<span style="color: rgb(51, 51, 255);">{1025}{1110}</span></small><small style="color: rgb(51, 51, 255);">Hello world!<br>
+
+
+</small><small style="color: rgb(51, 51, 255);">{1375}{1460}</small><small style="color: rgb(51, 51, 255);">Bye world!</small><small style="color: rgb(51, 51, 255);">|</small><small style="color: rgb(51, 51, 255);">Bye Bye Bye!<br>
+
+<br>
+
+</small>
+<h2><small><small><small>5. TMPlayer format
+(*.txt)</small></small></small></h2>
+
+
+<small>This format comes in five varieties!<br>
+
+
+<br>
+
+
+<span style="color: rgb(51, 51, 255);">time-base 00:00:00:<br>
+
+00:00:50:This is the Earth at a time|when the dinosaurs roamed...<br>
+
+00:00:53:<br>
+
+00:00:54:a lush and fertile planet.<br>
+
+00:00:56:<br>
+
+<br>
+
+time-base 0:00:00:<br>
+
+0:00:50:This is the Earth at a time|when the dinosaurs roamed...<br>
+
+0:00:53:<br>
+
+0:00:54:a lush and fertile planet.<br>
+
+0:00:56:<br>
+
+<br>
+
+time-base 00:00:00=<br>
+
+00:00:50=This is the Earth at a time|when the dinosaurs roamed...<br>
+
+00:00:53=<br>
+
+00:00:54=a lush and fertile planet.<br>
+
+00:00:56=<br>
+
+<br>
+
+time-base 0:00:00=<br>
+
+0:00:50=This is the Earth at a time|when the dinosaurs roamed...<br>
+
+0:00:53=<br>
+
+0:00:54=a lush and fertile planet.<br>
+
+0:00:56=<br>
+
+<br>
+
+and multiline time-base 00:00:00,1=<br>
+
+00:00:50,1=This is the Earth at a time<br>
+
+00:00:50,2=when the dinosaurs roamed...<br>
+
+00:00:53,1=<br>
+
+00:00:54,1=a lush and fertile planet.<br>
+
+00:00:56,1=<br>
+</span></small>
+<h2><small><small><small>6. MPL2 format
+(*.txt)</small></small></small></h2>
+
+
+<small>TMPL2 is a time-based subtitle format. It is much more accurate
+than the common TMP time-based format (0:00:00), and easier to
+synchronize with different versions of the same movie than frame-based
+formats (like mDVD - {0000}{0000}).<br>
+
+
+<br>
+
+
+<span style="color: rgb(51, 51, 255);">[123][456] Sample subtitle<br>
+<br>
+Where the first number is the time when the subtitle appears, and the
+second number is the time when the subtitle disappears. The time is
+given in decaseconds (0,1 s). [123][456] means that the subtitle
+appears in 12,3 second of the film, and disappears in 45,6 second.<br>
+<br>
+You can get more than one line in one subtitle by separating the lines with the | character.<br>
+<br>
+[123][456] Line 1|Line 2<br>
+Italics is used by putting / at the beginning of the line (not the entire subtitle).<br>
+<br>
+[123][456] /Sample subtitle<br>
+[123][456] /Line 1|Line 2 <br>
+(first line in italics, second line normal)<br>
+[123][456] Line 1|/Line 2<br>
+(first line normal, second line in italics)<br>
+[123][456] /Line 1|/Line 2 </span></small><br>
+<small><span style="color: rgb(51, 51, 255);"><br>
+</span></small>
+<small>
+</small>
+</div>
+
+
+
+</div>
+
+
+
+</body>
+</html>
